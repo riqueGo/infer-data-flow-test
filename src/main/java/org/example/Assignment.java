@@ -2,7 +2,8 @@ package org.example;
 
 public class Assignment {
     public void simple() {
-        int x = 10;
+        int x = 5;
+        System.out.println(x);
         base();
     }
 
